@@ -1,0 +1,28 @@
+      
+       Board: Diag_586220_Cassette
+  
+       Files: 0
+       ======
+  
+       All Gerber files are generated in extended gerber format (RS274X)
+       *.TOP        : Film top copper
+       *.BOT        :  -"- bottom copper
+       *.STC        :  -"- top soldermask 
+       *.STS        :  -"- bottom soldermask
+       *.PLC        :  -"- silk screen top
+       *.DK         : Drills plated Through (Excellon)
+       *.NDK        : Drills not plated Through (Excellon)
+       *.OUT        : Board outline
+       
+  
+       Board Size:
+       ===========
+       Length     :   30.0 mm
+       Width      :   25.0 mm
+       Thickness  :   1.6 mm
+       Material   :   FR 4
+       Copper     :   35 um
+       Surface    :   HASL
+       
+       Remarks:
+       ========

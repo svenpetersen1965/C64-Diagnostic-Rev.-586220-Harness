@@ -1,0 +1,116 @@
+
+
+   ---- Transcoding 'X:\Projekte\_Eigene\Diag586220_Harness\Diag586220_Cassette_Port\Rev.0\Gerber\gerber_Diag_586220_Cassette.out' ----   Sat Mar 02 12:09:53 2019
+
+D13   --> D100
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'X:\Projekte\_Eigene\Diag586220_Harness\Diag586220_Cassette_Port\Rev.0\Gerber\gerber_Diag_586220_Cassette.plc' ----   Sat Mar 02 12:09:53 2019
+
+D11   --> D101
+D12   --> D102
+D13   --> D103
+D14   --> D104
+D15   --> D105
+D16   --> D106
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'X:\Projekte\_Eigene\Diag586220_Harness\Diag586220_Cassette_Port\Rev.0\Gerber\gerber_Diag_586220_Cassette.stc' ----   Sat Mar 02 12:09:53 2019
+
+D12   --> D107
+D13   --> D108
+D14   --> D109
+D15   --> D110
+D16   --> D111
+D17   --> D112
+D18   --> D113
+D19   --> D114
+D20   --> D115
+D21   --> D116
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'X:\Projekte\_Eigene\Diag586220_Harness\Diag586220_Cassette_Port\Rev.0\Gerber\gerber_Diag_586220_Cassette.sts' ----   Sat Mar 02 12:09:53 2019
+
+D12   --> D117
+D13   --> D118
+D14   --> D119
+D15   --> D120
+D16   --> D121
+D17   --> D122
+D18   --> D123
+D19   --> D124
+D20   --> D125
+D21   --> D126
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'X:\Projekte\_Eigene\Diag586220_Harness\Diag586220_Cassette_Port\Rev.0\Gerber\gerber_Diag_586220_Cassette.top' ----   Sat Mar 02 12:09:53 2019
+
+D12   --> D127
+D13   --> D128
+D14   --> D129
+D15   --> D130
+D23   --> D131
+D24   --> D132
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'X:\Projekte\_Eigene\Diag586220_Harness\Diag586220_Cassette_Port\Rev.0\Gerber\gerber_Diag_586220_Cassette.out' ----   Sat Mar 02 12:12:16 2019
+
+D13   --> D100
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'X:\Projekte\_Eigene\Diag586220_Harness\Diag586220_Cassette_Port\Rev.0\Gerber\gerber_Diag_586220_Cassette.plc' ----   Sat Mar 02 12:12:16 2019
+
+D11   --> D101
+D12   --> D102
+D13   --> D103
+D14   --> D104
+D15   --> D105
+D16   --> D106
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'X:\Projekte\_Eigene\Diag586220_Harness\Diag586220_Cassette_Port\Rev.0\Gerber\gerber_Diag_586220_Cassette.stc' ----   Sat Mar 02 12:12:16 2019
+
+D12   --> D107
+D13   --> D108
+D14   --> D109
+D15   --> D110
+D16   --> D111
+D17   --> D112
+D18   --> D113
+D19   --> D114
+D20   --> D115
+D21   --> D116
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'X:\Projekte\_Eigene\Diag586220_Harness\Diag586220_Cassette_Port\Rev.0\Gerber\gerber_Diag_586220_Cassette.sts' ----   Sat Mar 02 12:12:16 2019
+
+D12   --> D117
+D13   --> D118
+D14   --> D119
+D15   --> D120
+D16   --> D121
+D17   --> D122
+D18   --> D123
+D19   --> D124
+D20   --> D125
+D21   --> D126
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'X:\Projekte\_Eigene\Diag586220_Harness\Diag586220_Cassette_Port\Rev.0\Gerber\gerber_Diag_586220_Cassette.top' ----   Sat Mar 02 12:12:16 2019
+
+D12   --> D127
+D13   --> D128
+D14   --> D129
+D15   --> D130
+D23   --> D131
+D24   --> D132
+-----------------------------------------------------------------

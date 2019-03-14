@@ -1,0 +1,69 @@
+
+
+   ---- Transcoding 'X:\Projekte\_Eigene\Diag586220_Harness\Diag586220_Keyboard\Rev.0\Gerber\gerber_C64_Keyb-Test.out' ----   Sat Mar 02 12:16:59 2019
+
+D11   --> D100
+D12   --> D101
+D13   --> D102
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'X:\Projekte\_Eigene\Diag586220_Harness\Diag586220_Keyboard\Rev.0\Gerber\gerber_C64_Keyb-Test.plc' ----   Sat Mar 02 12:16:59 2019
+
+D11   --> D103
+D13   --> D104
+D14   --> D105
+D15   --> D106
+D16   --> D107
+D17   --> D108
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'X:\Projekte\_Eigene\Diag586220_Harness\Diag586220_Keyboard\Rev.0\Gerber\gerber_C64_Keyb-Test.stc' ----   Sat Mar 02 12:16:59 2019
+
+D11   --> D109
+D13   --> D110
+D14   --> D111
+D15   --> D112
+D16   --> D113
+D17   --> D114
+D19   --> D115
+D20   --> D116
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'X:\Projekte\_Eigene\Diag586220_Harness\Diag586220_Keyboard\Rev.0\Gerber\gerber_C64_Keyb-Test.sts' ----   Sat Mar 02 12:16:59 2019
+
+D11   --> D117
+D13   --> D118
+D14   --> D119
+D15   --> D120
+D16   --> D121
+D17   --> D122
+D19   --> D123
+D20   --> D124
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'X:\Projekte\_Eigene\Diag586220_Harness\Diag586220_Keyboard\Rev.0\Gerber\gerber_C64_Keyb-Test.top' ----   Sat Mar 02 12:17:00 2019
+
+D11   --> D125
+D12   --> D126
+D13   --> D127
+D14   --> D128
+D15   --> D129
+D16   --> D130
+D17   --> D131
+D18   --> D132
+D19   --> D133
+D20   --> D134
+D21   --> D135
+D22   --> D136
+D23   --> D137
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'X:\Projekte\_Eigene\Diag586220_Harness\Diag586220_Keyboard\Rev.0\Gerber\excellon_C64_Keyb-Test.ndk' ----   Sat Mar 02 12:17:18 2019
+
+T1   --> T5
+-----------------------------------------------------------------
