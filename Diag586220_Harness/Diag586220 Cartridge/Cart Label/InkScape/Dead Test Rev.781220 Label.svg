@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.3936669"
-     inkscape:cx="134.16385"
-     inkscape:cy="965.40415"
+     inkscape:zoom="3.3851562"
+     inkscape:cx="238.31939"
+     inkscape:cy="889.12669"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -35,9 +35,7 @@
      inkscape:window-height="1411"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     showguides="true"
-     inkscape:guide-bbox="true" />
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -70,27 +68,27 @@
         <polygon
            style="fill:#e2001a;fill-rule:evenodd"
            id="polygon7"
-           points="434.238,411.131 319.269,411.131 319.269,408.062 434.238,408.062 "
+           points="434.238,408.062 434.238,411.131 319.269,411.131 319.269,408.062 "
            transform="matrix(0.26458333,0,0,0.26458333,50.60586,-18.461077)" />
         <polygon
            style="fill:#e95e38;fill-rule:evenodd"
            id="polygon9"
-           points="434.238,417.269 319.269,417.269 319.269,414.2 434.238,414.2 "
+           points="434.238,414.2 434.238,417.269 319.269,417.269 319.269,414.2 "
            transform="matrix(0.26458333,0,0,0.26458333,50.60586,-18.461077)" />
         <polygon
            style="fill:#ffcc00;fill-rule:evenodd"
            id="polygon11"
-           points="434.238,423.406 319.269,423.406 319.269,420.337 434.238,420.337 "
+           points="434.238,420.337 434.238,423.406 319.269,423.406 319.269,420.337 "
            transform="matrix(0.26458333,0,0,0.26458333,50.60586,-18.461077)" />
         <polygon
            style="fill:#57ab27;fill-rule:evenodd"
            id="polygon13"
-           points="434.238,429.544 319.269,429.544 319.269,426.475 434.238,426.475 "
+           points="434.238,426.475 434.238,429.544 319.269,429.544 319.269,426.475 "
            transform="matrix(0.26458333,0,0,0.26458333,50.60586,-18.461077)" />
         <polygon
            style="fill:#009ee0;fill-rule:evenodd"
            id="polygon15"
-           points="434.238,435.682 319.269,435.682 319.269,432.613 434.238,432.613 "
+           points="434.238,432.613 434.238,435.682 319.269,435.682 319.269,432.613 "
            transform="matrix(0.26458333,0,0,0.26458333,50.60586,-18.461077)" />
       </g>
       <g
@@ -120,21 +118,15 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.39532113px;line-height:1;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458329"
-       x="68.443291"
-       y="41.968491"
-       id="text13054"
-       transform="scale(0.96245339,1.0390114)"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="65.685593"
+       y="43.60574"
+       id="text13054"><tspan
          sodipodi:role="line"
          id="tspan13052"
-         x="68.443291"
-         y="41.968491"
-         style="font-size:5.43251419px;stroke-width:0.26458329">Diagnostic Rev. 586220+</tspan><tspan
-         sodipodi:role="line"
-         x="68.443291"
-         y="47.401005"
-         style="font-size:5.43251419px;stroke-width:0.26458329"
-         id="tspan4769">v0.4</tspan></text>
+         x="65.685593"
+         y="43.60574"
+         style="font-size:5.64444447px;stroke-width:0.26458332">Dead Test Rev. 781220</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
