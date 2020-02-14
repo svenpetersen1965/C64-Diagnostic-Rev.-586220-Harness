@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.2.2">
+<eagle version="9.5.2">
 <drawing>
 <settings>
 <setting alwaysvectorfont="yes"/>
@@ -1381,6 +1381,53 @@ Based on the following sources:
 </deviceset>
 </devicesets>
 </library>
+<library name="Pads">
+<description>diverse Anschlusspads</description>
+<packages>
+<package name="1,2MM_R">
+<circle x="0" y="0" radius="1.27" width="0.127" layer="25"/>
+<pad name="1" x="0" y="0" drill="1.2"/>
+<text x="-2.54" y="1.27" size="1.27" layer="25">&gt;NAME</text>
+</package>
+<package name="1,1/2,0">
+<circle x="0" y="0" radius="1.1045" width="0.127" layer="21"/>
+<pad name="1" x="0" y="0" drill="1.1" diameter="2"/>
+<text x="-2.4" y="1.3" size="1.27" layer="25">&gt;NAME</text>
+<rectangle x1="-0.9" y1="-0.3" x2="0.9" y2="0.3" layer="51"/>
+</package>
+</packages>
+<symbols>
+<symbol name="PIN">
+<text x="-2.54" y="5.08" size="1.778" layer="95">&gt;NAME</text>
+<pin name="1" x="0" y="0" visible="off" length="middle" direction="pas" function="dot" rot="R90"/>
+</symbol>
+</symbols>
+<devicesets>
+<deviceset name="L1,2_R" prefix="JP">
+<gates>
+<gate name="G$1" symbol="PIN" x="0" y="0"/>
+</gates>
+<devices>
+<device name="" package="1,2MM_R">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="60-1312-11" package="1,1/2,0">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
+</devicesets>
+</library>
 </libraries>
 <attributes>
 </attributes>
@@ -1407,13 +1454,13 @@ Based on the following sources:
 <part name="U$8" library="!pownet" deviceset="GND" device=""/>
 <part name="U$9" library="!pownet" deviceset="+5V" device=""/>
 <part name="R4" library="DISCRETE" deviceset="RES04" device="" value="150R"/>
-<part name="R3" library="DISCRETE" deviceset="RES04" device="" value="320R"/>
+<part name="R3" library="DISCRETE" deviceset="RES04" device="" value="316R"/>
 <part name="U$10" library="!pownet" deviceset="GND" device=""/>
 <part name="R7" library="DISCRETE" deviceset="RES04" device="" value="0R"/>
-<part name="R1" library="DISCRETE" deviceset="RES04" device="" value="120k"/>
-<part name="R2" library="DISCRETE" deviceset="RES04" device="" value="120k"/>
-<part name="R5" library="DISCRETE" deviceset="RES04" device="" value="120k"/>
-<part name="R6" library="DISCRETE" deviceset="RES04" device="" value="120k"/>
+<part name="R1" library="DISCRETE" deviceset="RES04" device="" value="110k"/>
+<part name="R2" library="DISCRETE" deviceset="RES04" device="" value="110k"/>
+<part name="R5" library="DISCRETE" deviceset="RES04" device="" value="110k"/>
+<part name="R6" library="DISCRETE" deviceset="RES04" device="" value="110k"/>
 <part name="U$11" library="!pownet" deviceset="GND" device=""/>
 <part name="U$12" library="!pownet" deviceset="GND" device=""/>
 <part name="U$13" library="!pownet" deviceset="GND" device=""/>
@@ -1423,8 +1470,12 @@ Based on the following sources:
 <part name="C1" library="DISCRETE" deviceset="CAP01" device="" value="100n"/>
 <part name="C2" library="DISCRETE" deviceset="CAP01" device="" value="100n"/>
 <part name="C3" library="DISCRETE" deviceset="CAP01" device="" value="100n"/>
-<part name="BHR1" library="Mech_Bohr" deviceset="BOHR3,2" device=""/>
-<part name="BHR2" library="Mech_Bohr" deviceset="BOHR3,2" device=""/>
+<part name="DRL1" library="Mech_Bohr" deviceset="BOHR3,2" device=""/>
+<part name="DRL2" library="Mech_Bohr" deviceset="BOHR3,2" device=""/>
+<part name="TP1" library="Pads" deviceset="L1,2_R" device=""/>
+<part name="TP2" library="Pads" deviceset="L1,2_R" device=""/>
+<part name="TP3" library="Pads" deviceset="L1,2_R" device=""/>
+<part name="U$19" library="!pownet" deviceset="GND" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -1583,11 +1634,23 @@ Based on the following sources:
 <attribute name="NAME" x="203.835" y="60.96" size="1.27" layer="95" rot="R90"/>
 <attribute name="VALUE" x="209.55" y="59.69" size="1.27" layer="96" rot="R90"/>
 </instance>
-<instance part="BHR1" gate="G$1" x="231.14" y="57.15" smashed="yes">
+<instance part="DRL1" gate="G$1" x="231.14" y="57.15" smashed="yes">
 <attribute name="NAME" x="229.235" y="59.055" size="1.778" layer="95"/>
 </instance>
-<instance part="BHR2" gate="G$1" x="238.76" y="57.15" smashed="yes">
+<instance part="DRL2" gate="G$1" x="238.76" y="57.15" smashed="yes">
 <attribute name="NAME" x="236.855" y="59.055" size="1.778" layer="95"/>
+</instance>
+<instance part="TP1" gate="G$1" x="53.34" y="137.16" smashed="yes">
+<attribute name="NAME" x="50.8" y="142.24" size="1.778" layer="95"/>
+</instance>
+<instance part="TP2" gate="G$1" x="256.54" y="139.7" smashed="yes">
+<attribute name="NAME" x="254" y="144.78" size="1.778" layer="95"/>
+</instance>
+<instance part="TP3" gate="G$1" x="256.54" y="99.06" smashed="yes">
+<attribute name="NAME" x="254" y="104.14" size="1.778" layer="95"/>
+</instance>
+<instance part="U$19" gate="1" x="53.34" y="132.08" smashed="yes">
+<attribute name="VALUE" x="51.1175" y="130.175" size="1.524" layer="96"/>
 </instance>
 </instances>
 <busses>
@@ -1754,6 +1817,11 @@ Based on the following sources:
 <pinref part="IC2" gate="D" pin="B"/>
 <pinref part="U$16" gate="1" pin="GND"/>
 <wire x1="127" y1="35.56" x2="129.54" y2="35.56" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="U$19" gate="1" pin="GND"/>
+<pinref part="TP1" gate="G$1" pin="1"/>
+<wire x1="53.34" y1="134.62" x2="53.34" y2="137.16" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="+5V" class="0">
@@ -2083,6 +2151,9 @@ Based on the following sources:
 <junction x="248.92" y="149.86"/>
 <label x="236.22" y="149.86" size="1.6764" layer="95"/>
 <label x="236.22" y="139.7" size="1.6764" layer="95"/>
+<pinref part="TP2" gate="G$1" pin="1"/>
+<wire x1="248.92" y1="139.7" x2="256.54" y2="139.7" width="0.1524" layer="91"/>
+<junction x="248.92" y="139.7"/>
 </segment>
 </net>
 <net name="POTXA" class="0">
@@ -2211,6 +2282,9 @@ Based on the following sources:
 <junction x="248.92" y="109.22"/>
 <label x="238.76" y="109.22" size="1.6764" layer="95"/>
 <label x="238.76" y="99.06" size="1.6764" layer="95"/>
+<pinref part="TP3" gate="G$1" pin="1"/>
+<wire x1="248.92" y1="99.06" x2="256.54" y2="99.06" width="0.1524" layer="91"/>
+<junction x="248.92" y="99.06"/>
 </segment>
 </net>
 </nets>

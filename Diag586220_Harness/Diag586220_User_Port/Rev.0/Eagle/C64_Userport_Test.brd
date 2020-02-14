@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.2.2">
+<eagle version="9.5.2">
 <drawing>
 <settings>
 <setting alwaysvectorfont="yes"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.5" unitdist="mm" unit="mm" style="lines" multiple="16" display="yes" altdistance="5" altunitdist="mil" altunit="mil"/>
+<grid distance="6.25" unitdist="mil" unit="mil" style="lines" multiple="16" display="yes" altdistance="5" altunitdist="mil" altunit="mil"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="2" name="Route2" color="16" fill="1" visible="no" active="no"/>
@@ -37,7 +37,7 @@
 <layer number="27" name="tValues" color="7" fill="1" visible="no" active="yes"/>
 <layer number="28" name="bValues" color="7" fill="1" visible="no" active="yes"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="yes"/>
-<layer number="30" name="bStop" color="7" fill="6" visible="yes" active="yes"/>
+<layer number="30" name="bStop" color="7" fill="6" visible="no" active="yes"/>
 <layer number="31" name="tCream" color="7" fill="4" visible="no" active="yes"/>
 <layer number="32" name="bCream" color="7" fill="5" visible="no" active="yes"/>
 <layer number="33" name="tFinish" color="6" fill="3" visible="no" active="yes"/>
@@ -54,7 +54,7 @@
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="yes"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="no" active="yes"/>
 <layer number="46" name="Milling" color="3" fill="1" visible="no" active="yes"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="no" active="yes"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="48" name="Document" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="49" name="Reference" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="50" name="dxf" color="7" fill="1" visible="no" active="no"/>
@@ -129,8 +129,8 @@
 <wire x1="0" y1="1" x2="1" y2="0" width="0" layer="20" curve="90"/>
 <wire x1="1" y1="0" x2="52" y2="0" width="0" layer="20"/>
 <wire x1="52" y1="0" x2="53" y2="1" width="0" layer="20" curve="90"/>
-<text x="7.46125" y="15.39875" size="1.778" layer="21" rot="R90">Diag 586220 User-Port</text>
-<text x="10.16" y="15.39875" size="1.778" layer="21" rot="R90">Rev. 0</text>
+<text x="5.23875" y="14.2875" size="1.778" layer="21" rot="R90">Diag 586220 User-Port</text>
+<text x="7.9375" y="14.44625" size="1.778" layer="21" rot="R90">Rev. 0</text>
 <text x="41.75125" y="6.19125" size="1.778" layer="21">CASSETTE</text>
 <text x="44.1325" y="45.56125" size="1.778" layer="21">CTRL#1</text>
 <text x="39.52875" y="45.87875" size="1.778" layer="21" rot="R90">CTRL#2</text>
@@ -146,8 +146,13 @@
 <text x="29" y="74" size="1.778" layer="48">35µm</text>
 <text x="1.5" y="74.5" size="1.778" layer="48">Diag 586220
 Harness</text>
-<text x="52" y="2" size="1.778" layer="21" rot="R90">1</text>
+<text x="52" y="2.9525" size="1.778" layer="21" rot="SR90">1</text>
 <text x="3" y="1.5" size="1.778" layer="21" rot="R90">12</text>
+<text x="6.39625" y="33.65375" size="1.27" layer="21">GND</text>
+<text x="6.0325" y="40.16375" size="1.27" layer="21">+5V
+CRT2</text>
+<text x="33.3375" y="32.0675" size="1.27" layer="21">+5V
+CRT1</text>
 </plain>
 <libraries>
 <library name="DISCRETE">
@@ -829,6 +834,16 @@ Based on the following sources:
 </package>
 </packages>
 </library>
+<library name="Pads">
+<description>diverse Anschlusspads</description>
+<packages>
+<package name="1,2MM_R">
+<circle x="0" y="0" radius="1.27" width="0.127" layer="25"/>
+<pad name="1" x="0" y="0" drill="1.2"/>
+<text x="-2.54" y="1.27" size="1.27" layer="25">&gt;NAME</text>
+</package>
+</packages>
+</library>
 </libraries>
 <attributes>
 </attributes>
@@ -1031,7 +1046,7 @@ design rules under a new name.</description>
 <attribute name="VALUE" x="17.24025" y="21.11375" size="1.27" layer="27" ratio="10"/>
 </element>
 <element name="J1" library="Commodore" package="USERPORT" value="C64-USERPORT" x="26.67" y="0" smashed="yes" rot="R180">
-<attribute name="NAME" x="51.8475" y="1.40125" size="1.27" layer="25" rot="R90"/>
+<attribute name="NAME" x="50.61375" y="0.69875" size="1.27" layer="25"/>
 <attribute name="VALUE" x="50.67" y="-3" size="1.27" layer="27" rot="R180"/>
 </element>
 <element name="J2" library="PINHEAD" package="2X03WV" value="" x="48" y="16" smashed="yes" rot="R90">
@@ -1043,15 +1058,15 @@ design rules under a new name.</description>
 <element name="J4" library="PINHEAD" package="2X05WV" value="" x="27" y="50" smashed="yes" rot="R180">
 <attribute name="NAME" x="31.91495" y="43.8275" size="1.27" layer="25"/>
 </element>
-<element name="R1" library="DISCRETE" package="R-10" value="120k" x="40.9575" y="37.30625" smashed="yes" rot="R270">
+<element name="R1" library="DISCRETE" package="R-10" value="110k" x="40.9575" y="37.30625" smashed="yes" rot="R270">
 <attribute name="NAME" x="40.01875" y="43.3225" size="1.27" layer="25"/>
 <attribute name="VALUE" x="40.3225" y="40.48125" size="1.27" layer="27" rot="R270"/>
 </element>
-<element name="R2" library="DISCRETE" package="R-10" value="120k" x="38.1" y="37.30625" smashed="yes" rot="R270">
+<element name="R2" library="DISCRETE" package="R-10" value="110k" x="38.1" y="37.30625" smashed="yes" rot="R270">
 <attribute name="NAME" x="37.01875" y="43.465" size="1.27" layer="25"/>
 <attribute name="VALUE" x="37.465" y="40.48125" size="1.27" layer="27" rot="R270"/>
 </element>
-<element name="R3" library="DISCRETE" package="R-10" value="320R" x="35.40125" y="22.225" smashed="yes" rot="R270">
+<element name="R3" library="DISCRETE" package="R-10" value="316R" x="35.40125" y="22.225" smashed="yes" rot="R270">
 <attribute name="NAME" x="34.6" y="28.26625" size="1.27" layer="25"/>
 <attribute name="VALUE" x="34.76625" y="25.4" size="1.27" layer="27" rot="R270"/>
 </element>
@@ -1059,11 +1074,11 @@ design rules under a new name.</description>
 <attribute name="NAME" x="37.6" y="28.12375" size="1.27" layer="25"/>
 <attribute name="VALUE" x="37.62375" y="25.4" size="1.27" layer="27" rot="R270"/>
 </element>
-<element name="R5" library="DISCRETE" package="R-10" value="120k" x="11.58875" y="47.41875" smashed="yes" rot="R270">
+<element name="R5" library="DISCRETE" package="R-10" value="110k" x="11.58875" y="47.41875" smashed="yes" rot="R270">
 <attribute name="NAME" x="8.95375" y="51.09375" size="1.27" layer="25" rot="R270"/>
 <attribute name="VALUE" x="10.95375" y="50.59375" size="1.27" layer="27" rot="R270"/>
 </element>
-<element name="R6" library="DISCRETE" package="R-10" value="120k" x="14.605" y="47.41875" smashed="yes" rot="R270">
+<element name="R6" library="DISCRETE" package="R-10" value="110k" x="14.605" y="47.41875" smashed="yes" rot="R270">
 <attribute name="NAME" x="15.97" y="45.09375" size="1.27" layer="25" rot="R270"/>
 <attribute name="VALUE" x="13.97" y="50.59375" size="1.27" layer="27" rot="R270"/>
 </element>
@@ -1084,11 +1099,20 @@ design rules under a new name.</description>
 <attribute name="VALUE" x="14.12875" y="22.38375" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="U$17" library="I-TEILE" package="2LAYER" value="" x="4.28625" y="42.70375" smashed="yes" rot="R90"/>
-<element name="BHR1" library="Mech_Bohr" package="BOHR3,2" value="" x="4" y="51" smashed="yes"/>
-<element name="BHR2" library="Mech_Bohr" package="BOHR3,2" value="" x="49" y="51" smashed="yes"/>
+<element name="DRL1" library="Mech_Bohr" package="BOHR3,2" value="" x="4" y="51" smashed="yes"/>
+<element name="DRL2" library="Mech_Bohr" package="BOHR3,2" value="" x="49" y="51" smashed="yes"/>
 <element name="U$18" library="DOC_IBSP" package="PCB-TITLE/" value="" x="0" y="64" smashed="yes">
 <attribute name="DRAWING_NAME" x="1.27" y="70.985" size="1.6764" layer="48" font="vector" ratio="12"/>
 <attribute name="LAST_DATE_TIME" x="1.27" y="67.81" size="1.6764" layer="48" font="vector" ratio="12"/>
+</element>
+<element name="TP1" library="Pads" package="1,2MM_R" value="L1,2_R" x="8.0475" y="36.69375" smashed="yes">
+<attribute name="NAME" x="6.5075" y="38.1225" size="1.27" layer="25"/>
+</element>
+<element name="TP2" library="Pads" package="1,2MM_R" value="L1,2_R" x="35.02875" y="36.6975" smashed="yes">
+<attribute name="NAME" x="33.44125" y="38.285" size="1.27" layer="25"/>
+</element>
+<element name="TP3" library="Pads" package="1,2MM_R" value="L1,2_R" x="8.04125" y="45.37375" smashed="yes">
+<attribute name="NAME" x="6.295" y="46.96125" size="1.27" layer="25"/>
 </element>
 </elements>
 <signals>
@@ -1179,6 +1203,9 @@ design rules under a new name.</description>
 <via x="42.38625" y="7.14375" extent="1-16" drill="0.4"/>
 <via x="39.37" y="6.985" extent="1-16" drill="0.4"/>
 <via x="23.65375" y="7.62" extent="1-16" drill="0.4"/>
+<contactref element="TP1" pad="1"/>
+<wire x1="8.0475" y1="36.69375" x2="13.3125" y2="36.69375" width="0.6096" layer="16"/>
+<wire x1="13.3125" y1="36.69375" x2="13.49375" y2="36.5125" width="0.6096" layer="16"/>
 </signal>
 <signal name="+5V">
 <contactref element="J1" pad="2"/>
@@ -1470,6 +1497,9 @@ design rules under a new name.</description>
 <wire x1="46.73" y1="32.46" x2="46.49625" y2="32.22625" width="0.6096" layer="1"/>
 <wire x1="46.49625" y1="32.22625" x2="40.9575" y2="32.22625" width="0.6096" layer="1"/>
 <wire x1="40.9575" y1="32.22625" x2="38.1" y2="32.22625" width="0.6096" layer="1"/>
+<contactref element="TP2" pad="1"/>
+<wire x1="38.1" y1="32.22625" x2="35.02875" y2="35.2975" width="0.6096" layer="1"/>
+<wire x1="35.02875" y1="35.2975" x2="35.02875" y2="36.6975" width="0.6096" layer="1"/>
 </signal>
 <signal name="POTXA">
 <contactref element="J3" pad="8"/>
@@ -1557,6 +1587,9 @@ design rules under a new name.</description>
 <wire x1="15.03375" y1="42.33875" x2="16.66875" y2="43.97375" width="0.6096" layer="16"/>
 <wire x1="16.66875" y1="43.97375" x2="24.78375" y2="43.97375" width="0.6096" layer="16"/>
 <wire x1="24.78375" y1="43.97375" x2="29.54" y2="48.73" width="0.6096" layer="16"/>
+<contactref element="TP3" pad="1"/>
+<wire x1="8.04125" y1="45.37375" x2="8.55375" y2="45.37375" width="0.6096" layer="16"/>
+<wire x1="8.55375" y1="45.37375" x2="11.58875" y2="42.33875" width="0.6096" layer="16"/>
 </signal>
 </signals>
 <mfgpreviewcolors>
