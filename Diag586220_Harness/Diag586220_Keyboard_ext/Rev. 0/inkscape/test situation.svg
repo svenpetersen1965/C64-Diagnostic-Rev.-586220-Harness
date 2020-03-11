@@ -1,0 +1,1477 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="test situation.svg"
+   inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker7230"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path7228"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path5154"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker5483"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.4) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path5481" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mstart"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path5151"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4) translate(10,0)" />
+    </marker>
+    <linearGradient
+       id="linearGradient4772"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop4770" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4772"
+       id="linearGradient4774"
+       x1="42.96459"
+       y1="14.995537"
+       x2="43.882868"
+       y2="14.995537"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(1.29e-6)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient4772"
+       id="linearGradient4774-7"
+       x1="42.964588"
+       y1="14.995537"
+       x2="43.88287"
+       y2="14.995537"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(2.8464551e-6)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient4772"
+       id="linearGradient4774-7-6"
+       x1="42.964588"
+       y1="14.995537"
+       x2="43.88287"
+       y2="14.995537"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(2.1964063e-6)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient4772"
+       id="linearGradient4774-7-6-2"
+       x1="42.964588"
+       y1="14.995537"
+       x2="43.88287"
+       y2="14.995537"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(2.5435449e-6)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient4772"
+       id="linearGradient4774-7-6-5"
+       x1="42.964588"
+       y1="14.995537"
+       x2="43.88287"
+       y2="14.995537"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(1.6735938e-6)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient4772"
+       id="linearGradient4774-7-6-2-4"
+       x1="42.964588"
+       y1="14.995537"
+       x2="43.88287"
+       y2="14.995537"
+       gradientUnits="userSpaceOnUse" />
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart-2"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5151-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker5483-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5481-4" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5154-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4772"
+       id="linearGradient4774-2"
+       x1="42.964588"
+       y1="14.995537"
+       x2="43.88287"
+       y2="14.995537"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4772"
+       id="linearGradient4774-7-65"
+       x1="42.964588"
+       y1="14.995537"
+       x2="43.88287"
+       y2="14.995537"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(3e-6)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient4772"
+       id="linearGradient4774-7-6-1"
+       x1="42.964588"
+       y1="14.995537"
+       x2="43.88287"
+       y2="14.995537"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(2e-6)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient4772"
+       id="linearGradient4774-7-6-2-9"
+       x1="42.964588"
+       y1="14.995537"
+       x2="43.88287"
+       y2="14.995537"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4772"
+       id="linearGradient5791"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(3e-6)"
+       x1="42.964588"
+       y1="14.995537"
+       x2="43.88287"
+       y2="14.995537" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4772"
+       id="linearGradient5793"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(2e-6)"
+       x1="42.964588"
+       y1="14.995537"
+       x2="43.88287"
+       y2="14.995537" />
+    <linearGradient
+       gradientTransform="translate(1.0095831e-6)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient4772"
+       id="linearGradient4774-7-65-3"
+       x1="42.964588"
+       y1="14.995537"
+       x2="43.88287"
+       y2="14.995537"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4772"
+       id="linearGradient5869"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(1.0095831e-6)"
+       x1="42.964588"
+       y1="14.995537"
+       x2="43.88287"
+       y2="14.995537" />
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart-2-0"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5151-6-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker5483-2-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5481-4-5" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-2-8"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5154-6-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <linearGradient
+       gradientTransform="translate(1.8641073e-6)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient4772"
+       id="linearGradient4774-7-6-2-9-8"
+       x1="42.964588"
+       y1="14.995537"
+       x2="43.88287"
+       y2="14.995537"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(2.8641073e-6)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient4772"
+       id="linearGradient4774-7-6-1-6"
+       x1="42.964588"
+       y1="14.995537"
+       x2="43.88287"
+       y2="14.995537"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4772"
+       id="linearGradient4774-7-65-4"
+       x1="42.964588"
+       y1="14.995537"
+       x2="43.88287"
+       y2="14.995537"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4772"
+       id="linearGradient7105"
+       gradientUnits="userSpaceOnUse"
+       x1="42.964588"
+       y1="14.995537"
+       x2="43.88287"
+       y2="14.995537" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4772"
+       id="linearGradient7107"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(2.8641073e-6)"
+       x1="42.964588"
+       y1="14.995537"
+       x2="43.88287"
+       y2="14.995537" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4772"
+       id="linearGradient7109"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(1.8641073e-6)"
+       x1="42.964588"
+       y1="14.995537"
+       x2="43.88287"
+       y2="14.995537" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4772"
+       id="linearGradient4774-7-65-4-7"
+       x1="42.964588"
+       y1="14.995537"
+       x2="43.88287"
+       y2="14.995537"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4772"
+       id="linearGradient7200"
+       gradientUnits="userSpaceOnUse"
+       x1="42.964588"
+       y1="14.995537"
+       x2="43.88287"
+       y2="14.995537" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.7212891"
+     inkscape:cx="193.91472"
+     inkscape:cy="864.36296"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="2560"
+     inkscape:window-height="1411"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:lockguides="false">
+    <sodipodi:guide
+       position="66.519005,206.04718"
+       orientation="1,0"
+       id="guide7216"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="66.519003,200.10018"
+       orientation="0,1"
+       id="guide7218"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 35.084834,52.020985 h 9.210731 13.568817"
+       id="path5875"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="59.179241"
+       y="21.73966"
+       id="text5031"><tspan
+         sodipodi:role="line"
+         id="tspan5029"
+         x="59.179241"
+         y="24.419945"
+         style="text-align:start;text-anchor:start;stroke-width:0.26458332" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="33.470856"
+       y="21.73966"
+       id="text5043"><tspan
+         sodipodi:role="line"
+         id="tspan5041"
+         x="33.470856"
+         y="24.419945"
+         style="stroke-width:0.26458332"></tspan></text>
+    <g
+       id="g5086"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <g
+         id="g5021">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 35.559766,21.79433 h 21.77678"
+           id="path4747"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 44.236139,11.604541 3.864423,-1.412515"
+           id="path4798"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 44.014781,11.604541 h -2.880312 l -1e-6,10.231194"
+           id="path4749"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 48.851533,11.604541 h 2.880312 l -10e-7,10.250408"
+           id="path4749-4"
+           inkscape:connector-curvature="0" />
+        <ellipse
+           style="opacity:0.98999999;fill:url(#linearGradient4774);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+           id="path4768"
+           cx="44.209717"
+           cy="11.604542"
+           rx="0.59157306"
+           ry="0.55760711" />
+        <ellipse
+           style="opacity:0.98999999;fill:url(#linearGradient4774-7);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+           id="path4768-3"
+           cx="48.559425"
+           cy="11.604542"
+           rx="0.59157306"
+           ry="0.55760711" />
+        <ellipse
+           style="opacity:0.98999999;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+           id="path4768-30"
+           cx="41.116261"
+           cy="21.794331"
+           rx="0.59157306"
+           ry="0.55760711" />
+        <ellipse
+           style="opacity:0.98999999;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+           id="path4768-30-1"
+           cx="51.780048"
+           cy="21.794331"
+           rx="0.59157306"
+           ry="0.55760711" />
+        <ellipse
+           style="opacity:0.98999999;fill:url(#linearGradient4774-7-6);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+           id="path4768-3-6"
+           cx="57.861744"
+           cy="21.794331"
+           rx="0.59157306"
+           ry="0.55760711" />
+        <ellipse
+           style="opacity:0.98999999;fill:url(#linearGradient4774-7-6-2);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+           id="path4768-3-6-8"
+           cx="35.100964"
+           cy="21.794331"
+           rx="0.59157306"
+           ry="0.55760711" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 41.193894,11.604541 h -6.10906"
+           id="path4980"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 51.791271,11.604541 h 6.073111"
+           id="path4982"
+           inkscape:connector-curvature="0" />
+        <ellipse
+           style="opacity:0.98999999;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+           id="path4768-30-1-8"
+           cx="51.743412"
+           cy="11.690722"
+           rx="0.59157306"
+           ry="0.55760711" />
+        <ellipse
+           style="opacity:0.98999999;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+           id="path4768-30-1-6"
+           cx="41.175686"
+           cy="11.613865"
+           rx="0.59157306"
+           ry="0.55760711" />
+        <ellipse
+           style="opacity:0.98999999;fill:url(#linearGradient4774-7-6-5);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+           id="path4768-3-6-1"
+           cx="57.861744"
+           cy="11.594651"
+           rx="0.59157306"
+           ry="0.55760711" />
+        <ellipse
+           style="opacity:0.98999999;fill:url(#linearGradient4774-7-6-2-4);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+           id="path4768-3-6-8-1"
+           cx="35.100964"
+           cy="11.594651"
+           rx="0.59157306"
+           ry="0.55760711" />
+      </g>
+      <text
+         id="text5035"
+         y="23.084642"
+         x="64.438179"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="text-align:end;text-anchor:end;stroke-width:0.26458332"
+           y="23.084642"
+           x="64.438179"
+           id="tspan5033"
+           sodipodi:role="line">PB0</tspan></text>
+      <text
+         id="text5047"
+         y="23.084642"
+         x="33.470856"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="23.084642"
+           x="33.470856"
+           id="tspan5045"
+           sodipodi:role="line">PA0</tspan></text>
+      <text
+         id="text5051"
+         y="12.949523"
+         x="23.464577"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="text-align:start;text-anchor:start;stroke-width:0.26458332"
+           y="12.949523"
+           x="23.464577"
+           id="tspan5049"
+           sodipodi:role="line">JOYB0</tspan></text>
+      <text
+         id="text5059"
+         y="12.949523"
+         x="59.179241"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="12.949523"
+           x="59.179241"
+           id="tspan5057"
+           sodipodi:role="line">JOYA0</tspan></text>
+    </g>
+    <ellipse
+       style="opacity:0.98999999;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.15000001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.3, 0.3;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path5088"
+       cx="46.219372"
+       cy="11.709936"
+       rx="7.0515523"
+       ry="2.1519723"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <ellipse
+       style="opacity:0.98999999;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.15000001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.3, 0.3;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path5088-6"
+       cx="46.219372"
+       cy="21.854948"
+       rx="7.0515523"
+       ry="2.1519725"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <ellipse
+       style="opacity:0.98999999;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.15000001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.3, 0.3;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path5088-6-8"
+       cx="46.219372"
+       cy="16.782471"
+       rx="7.0515523"
+       ry="2.1519728"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="M 66.519006,16.744011 H 53.876167"
+       id="path5124"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker5483)"
+       d="m 52.262187,10.045574 5.602195,-3.7397156 h 8.654621"
+       id="path5128"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Mstart)"
+       d="m 52.204546,23.494962 5.659838,3.835786 h 8.654621"
+       id="path5128-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="66.627693"
+       y="7.5829706"
+       id="text5551"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan5549"
+         x="66.627693"
+         y="7.5829706"
+         style="stroke-width:0.26458332">User Port PCB Rev. 0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="66.627693"
+       y="18.02113"
+       id="text5555"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan5553"
+         x="66.627693"
+         y="18.02113"
+         style="stroke-width:0.26458332">C64</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="66.627693"
+       y="28.607859"
+       id="text5559"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan5557"
+         x="66.627693"
+         y="28.607859"
+         style="stroke-width:0.26458332">Keyboard PCB Rev. 0</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 44.295567,41.828563 48.15999,40.416048"
+       id="path4798-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 44.074209,41.828563 h -2.880312 l -10e-7,10.231194"
+       id="path4749-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 48.910961,41.828563 h 2.880312 l -10e-7,10.250408"
+       id="path4749-4-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <ellipse
+       style="opacity:0.98999999;fill:url(#linearGradient4774-2);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path4768-6"
+       cx="44.269146"
+       cy="41.828564"
+       rx="0.59157306"
+       ry="0.55760711"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <ellipse
+       style="opacity:0.98999999;fill:url(#linearGradient4774-7-65);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path4768-3-3"
+       cx="48.618855"
+       cy="41.828564"
+       rx="0.59157306"
+       ry="0.55760711"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <ellipse
+       style="opacity:0.98999999;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path4768-30-8"
+       cx="41.17569"
+       cy="52.018353"
+       rx="0.59157306"
+       ry="0.55760711"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <ellipse
+       style="opacity:0.98999999;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path4768-30-1-9"
+       cx="51.839478"
+       cy="52.018353"
+       rx="0.59157306"
+       ry="0.55760711"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <ellipse
+       style="opacity:0.98999999;fill:url(#linearGradient5791);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path4768-3-6-87"
+       cx="57.921173"
+       cy="52.018353"
+       rx="0.59157306"
+       ry="0.55760711"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <ellipse
+       style="opacity:0.98999999;fill:url(#linearGradient5793);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path4768-3-6-8-7"
+       cx="35.160393"
+       cy="52.018353"
+       rx="0.59157306"
+       ry="0.55760711"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 41.253322,41.828563 h -6.10906"
+       id="path4980-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 51.850699,41.828563 H 57.92381"
+       id="path4982-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <ellipse
+       style="opacity:0.98999999;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path4768-30-1-8-5"
+       cx="51.802841"
+       cy="41.914742"
+       rx="0.59157306"
+       ry="0.55760711"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <ellipse
+       style="opacity:0.98999999;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path4768-30-1-6-9"
+       cx="41.235115"
+       cy="41.837887"
+       rx="0.59157306"
+       ry="0.55760711"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <ellipse
+       style="opacity:0.98999999;fill:url(#linearGradient4774-7-6-1);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path4768-3-6-1-2"
+       cx="57.921173"
+       cy="41.818672"
+       rx="0.59157306"
+       ry="0.55760711"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <ellipse
+       style="opacity:0.98999999;fill:url(#linearGradient4774-7-6-2-9);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path4768-3-6-8-1-1"
+       cx="35.160393"
+       cy="41.818672"
+       rx="0.59157306"
+       ry="0.55760711"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="64.497604"
+       y="53.308662"
+       id="text5035-1"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan5033-6"
+         x="64.497604"
+         y="53.308662"
+         style="text-align:end;text-anchor:end;stroke-width:0.26458332">PB0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="33.530285"
+       y="53.308662"
+       id="text5047-1"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan5045-2"
+         x="33.530285"
+         y="53.308662"
+         style="stroke-width:0.26458332">PA0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="23.524004"
+       y="43.173542"
+       id="text5051-7"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan5049-5"
+         x="23.524004"
+         y="43.173542"
+         style="text-align:start;text-anchor:start;stroke-width:0.26458332">JOYB0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="59.23867"
+       y="43.173542"
+       id="text5059-2"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan5057-6"
+         x="59.23867"
+         y="43.173542"
+         style="stroke-width:0.26458332">JOYA0</tspan></text>
+    <ellipse
+       style="opacity:0.98999999;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.15000001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.3, 0.3;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path5088-8"
+       cx="46.278801"
+       cy="41.93396"
+       rx="7.0515523"
+       ry="2.1519725"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <ellipse
+       style="opacity:0.98999999;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.15000001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.3, 0.3;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path5088-6-2"
+       cx="46.278801"
+       cy="52.078972"
+       rx="7.0515523"
+       ry="2.1519728"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <ellipse
+       style="opacity:0.98999999;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.15000001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.3, 0.3;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path5088-6-8-5"
+       cx="46.278801"
+       cy="47.006493"
+       rx="7.0515523"
+       ry="2.1519728"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend-2)"
+       d="M 66.578434,46.968034 H 53.811965"
+       id="path5124-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker5483-2)"
+       d="m 51.791272,40.077457 6.132538,-3.547576 h 8.654621"
+       id="path5128-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Mstart-2)"
+       d="m 51.791272,53.80493 6.132541,3.74984 h 8.654621"
+       id="path5128-5-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="66.687119"
+       y="37.806992"
+       id="text5551-4"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan5549-0"
+         x="66.687119"
+         y="37.806992"
+         style="stroke-width:0.26458332">User Port PCB Rev. 0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="66.687119"
+       y="48.245152"
+       id="text5555-3"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan5553-7"
+         x="66.687119"
+         y="48.245152"
+         style="stroke-width:0.26458332">C64</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="66.687119"
+       y="56.833622"
+       id="text5559-4"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan5557-1"
+         x="66.687119"
+         y="56.833622"
+         style="stroke-width:0.26458332">Keyboard PCB</tspan><tspan
+         sodipodi:role="line"
+         x="66.687119"
+         y="60.361401"
+         style="stroke-width:0.26458332"
+         id="tspan6881">(extended)</tspan></text>
+    <ellipse
+       style="opacity:0.98999999;fill:url(#linearGradient5869);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path4768-6-8"
+       cx="44.246265"
+       cy="52.040203"
+       rx="0.59157306"
+       ry="0.55760711"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <ellipse
+       style="opacity:0.98999999;fill:url(#linearGradient4774-7-65-3);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path4768-3-3-5"
+       cx="48.595974"
+       cy="52.040203"
+       rx="0.59157306"
+       ry="0.55760711"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.79374995, 0.79374995;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 46.497975,10.735017 V 6.3058508 h -5.304081"
+       id="path6867"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.79374995, 0.79374995;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 41.193894,36.529875 h 5.304081 v 15.49111"
+       id="path6871"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="40.704788"
+       y="7.6644888"
+       id="text6875"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan6873"
+         x="40.704788"
+         y="7.6644888"
+         style="stroke-width:0.26458332">WRITE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="40.704788"
+       y="37.888512"
+       id="text6879"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan6877"
+         x="40.704788"
+         y="37.888512"
+         style="stroke-width:0.26458332">WRITE</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 44.236141,72.454928 3.864423,-1.412515"
+       id="path4798-3-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 44.014783,72.454928 h -2.880312 l -10e-7,12.92116"
+       id="path4749-9-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 48.851535,72.454928 h 2.880312 v 12.959588"
+       id="path4749-4-4-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <ellipse
+       style="opacity:0.98999999;fill:url(#linearGradient7105);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path4768-6-85"
+       cx="44.250141"
+       cy="72.454926"
+       rx="0.59157306"
+       ry="0.55760711"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <ellipse
+       style="opacity:0.98999999;fill:url(#linearGradient4774-7-65-4);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path4768-3-3-4"
+       cx="48.599846"
+       cy="72.454926"
+       rx="0.59157306"
+       ry="0.55760711"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <ellipse
+       style="opacity:0.98999999;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path4768-30-8-9"
+       cx="41.116264"
+       cy="85.416412"
+       rx="0.59157306"
+       ry="0.55760711"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <ellipse
+       style="opacity:0.98999999;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path4768-30-1-9-2"
+       cx="51.780048"
+       cy="85.416412"
+       rx="0.59157306"
+       ry="0.55760711"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 41.193896,72.454928 h -6.10906"
+       id="path4980-9-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 51.791272,72.454928 h 6.073111"
+       id="path4982-6-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <ellipse
+       style="opacity:0.98999999;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path4768-30-1-8-5-1"
+       cx="51.743412"
+       cy="72.541107"
+       rx="0.59157306"
+       ry="0.55760711"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <ellipse
+       style="opacity:0.98999999;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path4768-30-1-6-9-7"
+       cx="41.17569"
+       cy="72.464256"
+       rx="0.59157306"
+       ry="0.55760711"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <ellipse
+       style="opacity:0.98999999;fill:url(#linearGradient4774-7-6-1-6);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path4768-3-6-1-2-5"
+       cx="57.861744"
+       cy="72.445038"
+       rx="0.59157306"
+       ry="0.55760711"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <ellipse
+       style="opacity:0.98999999;fill:url(#linearGradient4774-7-6-2-9-8);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path4768-3-6-8-1-1-0"
+       cx="35.100967"
+       cy="72.445038"
+       rx="0.59157306"
+       ry="0.55760711"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="64.438179"
+       y="86.706726"
+       id="text5035-1-2"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan5033-6-1"
+         x="64.438179"
+         y="86.706726"
+         style="text-align:end;text-anchor:end;stroke-width:0.26458332">PB0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="33.47086"
+       y="86.706726"
+       id="text5047-1-9"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan5045-2-9"
+         x="33.47086"
+         y="86.706726"
+         style="stroke-width:0.26458332">PA0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="23.464577"
+       y="73.799911"
+       id="text5051-7-1"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan5049-5-1"
+         x="23.464577"
+         y="73.799911"
+         style="text-align:start;text-anchor:start;stroke-width:0.26458332">JOYB0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="59.179245"
+       y="73.799911"
+       id="text5059-2-1"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan5057-6-4"
+         x="59.179245"
+         y="73.799911"
+         style="stroke-width:0.26458332">JOYA0</tspan></text>
+    <ellipse
+       style="opacity:0.98999999;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.14999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.3, 0.3;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path5088-8-3"
+       cx="46.273716"
+       cy="73.715157"
+       rx="7.0515523"
+       ry="3.9861338"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <ellipse
+       style="opacity:0.98999999;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.15000001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.3, 0.3;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path5088-6-2-9"
+       cx="46.219372"
+       cy="85.477036"
+       rx="7.0515523"
+       ry="2.1519728"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <ellipse
+       style="opacity:0.98999999;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.15000001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.3, 0.3;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path5088-6-8-5-1"
+       cx="46.219372"
+       cy="80.458908"
+       rx="7.0515523"
+       ry="2.1519728"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend-2-8)"
+       d="M 66.519007,80.366101 H 53.752538"
+       id="path5124-6-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker5483-2-4)"
+       d="m 51.731847,70.703822 6.132536,-3.547576 h 8.654621"
+       id="path5128-3-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Mstart-2-0)"
+       d="m 51.731847,87.202997 6.132541,3.749832 h 8.654619"
+       id="path5128-5-3-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="66.627693"
+       y="68.433357"
+       id="text5551-4-8"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan5549-0-2"
+         x="66.627693"
+         y="68.433357"
+         style="stroke-width:0.26458332">User Port PCB Rev. 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="66.627693"
+       y="81.643219"
+       id="text5555-3-1"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan5553-7-3"
+         x="66.627693"
+         y="81.643219"
+         style="stroke-width:0.26458332">C64</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="66.573349"
+       y="92.514191"
+       id="text5559-4-2"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan5557-1-4"
+         x="66.573349"
+         y="92.514191"
+         style="stroke-width:0.26458332">Keyboard PCB Rev. 1</tspan><tspan
+         sodipodi:role="line"
+         x="66.573349"
+         y="96.041969"
+         style="stroke-width:0.26458332"
+         id="tspan6881-0" /></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.79374996, 0.79374996;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 41.134468,67.15624 h 5.304081 l 0.05943,8.399021"
+       id="path6871-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="40.645363"
+       y="68.514877"
+       id="text6879-7"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan6877-9"
+         x="40.645363"
+         y="68.514877"
+         style="stroke-width:0.26458332">WRITE</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 57.864382,85.453409 H 49.916349 V 75.43334 H 48.44902"
+       id="path7212"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 35.084834,85.453409 h 7.603564 V 75.43334 h 1.607167 4.153455"
+       id="path7214"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <ellipse
+       style="opacity:0.98999999;fill:url(#linearGradient7107);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path4768-3-6-87-4"
+       cx="57.861744"
+       cy="85.416412"
+       rx="0.59157306"
+       ry="0.55760711"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <ellipse
+       style="opacity:0.98999999;fill:url(#linearGradient7109);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path4768-3-6-8-7-5"
+       cx="35.100967"
+       cy="85.416412"
+       rx="0.59157306"
+       ry="0.55760711"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <ellipse
+       style="opacity:0.98999999;fill:url(#linearGradient7200);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path4768-6-85-4"
+       cx="44.250141"
+       cy="75.487694"
+       rx="0.59157306"
+       ry="0.55760711"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <ellipse
+       style="opacity:0.98999999;fill:url(#linearGradient4774-7-65-4-7);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path4768-3-3-4-4"
+       cx="48.599846"
+       cy="75.487694"
+       rx="0.59157306"
+       ry="0.55760711"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker7230)"
+       d="m 43.068816,83.123239 11.874495,13.77658 h 11.575692"
+       id="path7220"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="66.546181"
+       y="98.204109"
+       id="text7448"
+       inkscape:export-filename="X:\Projekte\_Eigene\C64-Projects\Diag586220_Harness\Diag586220_Keyboard_ext\pictures\Test_situation.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan7446"
+         x="66.546181"
+         y="98.204109"
+         style="stroke-width:0.26458332">Ribbon Cable</tspan></text>
+  </g>
+</svg>
