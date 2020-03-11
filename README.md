@@ -18,6 +18,6 @@ Revision 1 is released now. It fixes the "False OK" of the Control Port test, wh
 
 <img src="https://github.com/svenpetersen1965/C64-Diagnostic-Rev.-586220-Harness/blob/master/Diag586220_Harness/Diag586220_User_Port/Rev.1/pictures/4035_diagnostic_harness_title.JPG" width="300" alt="Diagnostic Harness Rev. 1">
 
-A fix for existing harnesses is the <b>extended</b> Keyboard Dongle. Itz can be combined with Rev. 0 of this harness and all other Harnesses. It only requires a connection to the Keyboard Dongle.
+A fix for existing harnesses is the <b>extended</b> Keyboard Dongle. It can be combined with Rev. 0 of this harness and all other Harnesses. It only requires a connection to the Keyboard Dongle.
 
 <img src="https://github.com/svenpetersen1965/C64-Diagnostic-Rev.-586220-Harness/blob/master/Diag586220_Harness/Diag586220_Keyboard_ext/Rev.%201/pictures/4034_Ext_KB_Dongle_title.JPG" width="300" alt="Extended keyboard Dongle">
