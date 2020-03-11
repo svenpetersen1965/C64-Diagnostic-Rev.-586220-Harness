@@ -1,0 +1,1 @@
+The SKF files are from the obsolete program AutoSketch (v10). The DWG files are saved as AutoCAD 2007 DWG files.
