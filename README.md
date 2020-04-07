@@ -24,3 +24,6 @@ Revision 1 is released now. It fixes the "False OK" of the Control Port test, wh
 A fix for existing harnesses is the <b>extended</b> Keyboard Dongle. It can be combined with Rev. 0 of this harness and all other Harnesses. It only requires a connection to the Cassette Port Dongle.
 
 <img src="https://github.com/svenpetersen1965/C64-Diagnostic-Rev.-586220-Harness/blob/master/Diag586220_Harness/Diag586220_Keyboard_ext/Rev.%201/pictures/4034_Ext_KB_Dongle_title.JPG" width="300" alt="Extended keyboard Dongle">
+
+# Recommended Screws
+For the case, I have used 2.9mm x 9.5mm (self taping) screws for sheet metal (C 2,9x9,5H, DIN 7981).  
