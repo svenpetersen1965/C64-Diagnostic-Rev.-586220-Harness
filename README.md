@@ -27,3 +27,8 @@ A fix for existing harnesses is the <b>extended</b> Keyboard Dongle. It can be c
 
 # Recommended Screws
 For the case, I have used 2.9mm x 9.5mm (self taping) screws for sheet metal (C 2,9x9,5H, DIN 7981).  
+
+# Other
+you might want to check Jeff Birt's <a href="https://github.com/Jeff-Birt/COREi64_Dual_Diag_Cart_Case/tree/master">case</a> for the harness, too.
+
+Find additional info about the harness on my <a href="http://tech.guitarsite.de/c64_diag_harness.html">website</a>.
