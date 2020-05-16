@@ -29,7 +29,7 @@ A fix for existing harnesses is the <b>extended</b> Keyboard Dongle. It can be c
 For the case, I have used 2.9mm x 9.5mm (self taping) screws for sheet metal (C 2,9x9,5H, DIN 7981).  
 
 # C128 diagnostics
-This requires aspecial keyboard dongle, which is in development (as of April 2020). The project data will be provided as soon as the prototypes were built and successfully tested.
+They keyboard PCB for the C128 is released now and included in this repository.
 
 # Other
 you might want to check Jeff Birt's <a href="https://github.com/Jeff-Birt/COREi64_Dual_Diag_Cart_Case/tree/master">case</a> for the harness, too.
