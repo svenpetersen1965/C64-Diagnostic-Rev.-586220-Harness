@@ -37,3 +37,12 @@ you might want to check Jeff Birt's <a href="https://github.com/Jeff-Birt/COREi6
 Find additional info about the harness on my <a href="http://tech.guitarsite.de/c64_diag_harness.html">website</a>.
 
 Jeff Birt provided the information of the cable lengths for C128 diagnostics. This is part of the documentation now. 
+
+# Prices
+The prices are calculated in May 2020. The calculatin ios based on the item prices from reicehlt.de. They might differ from distributor to distributor. The edge connector prices are based on ebay shoppings. The calculated prices do not include any shipping fees. 
+
+* User Port PCB plus cables and IEC dongle: 13,38€
+* Cassette Port Dongle: 4,99€
+* Keyboard Dongle: 1,85€
+
+The 3D printed cases and the labels are not included in the price calculation.
