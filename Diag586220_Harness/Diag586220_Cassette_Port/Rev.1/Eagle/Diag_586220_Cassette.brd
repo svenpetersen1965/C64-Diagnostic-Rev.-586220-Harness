@@ -167,6 +167,13 @@ Harness</text>
 <wire x1="0.7" y1="29" x2="0" y2="29" width="0" layer="20"/>
 <dimension x1="0" y1="29" x2="30" y2="30" x3="15" y3="45.56125" textsize="1.27" layer="47" dtype="horizontal"/>
 <dimension x1="28" y1="43" x2="29" y2="0" x3="33" y3="21.5" textsize="1.27" layer="47" dtype="vertical"/>
+<text x="13.81125" y="25.24125" size="1.016" layer="25">10k</text>
+<text x="15.08125" y="18.415" size="1.016" layer="25" rot="R90">330R</text>
+<text x="19.84375" y="9.68375" size="1.016" layer="25">330R</text>
+<text x="25.87625" y="18.25625" size="1.016" layer="25">BC
+547</text>
+<text x="19.05" y="18.89125" size="1.016" layer="25">R</text>
+<text x="19.05" y="13.97" size="1.016" layer="25">G</text>
 </plain>
 <libraries>
 <library name="Commodore">
