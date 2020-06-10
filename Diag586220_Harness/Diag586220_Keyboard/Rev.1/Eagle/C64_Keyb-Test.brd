@@ -163,6 +163,7 @@ Diag 586220</text>
 Port PCB</text>
 <dimension x1="0" y1="0" x2="17" y2="0" x3="8.5" y3="-3.01625" textsize="1.27" textratio="12" layer="47" dtype="horizontal"/>
 <dimension x1="17" y1="53" x2="17" y2="0" x3="20.32" y3="26.5" textsize="1.27" textratio="12" layer="47" dtype="vertical"/>
+<text x="12.54125" y="3.96875" size="1.016" layer="25" ratio="12" rot="R90">330R</text>
 </plain>
 <libraries>
 <library name="MPE_Garry">
@@ -253,9 +254,9 @@ Port PCB</text>
 <pad name="A" x="-1.27" y="0" drill="0.7"/>
 <text x="1.905" y="0" size="1.27" layer="25" ratio="10">&gt;Name</text>
 <text x="1.905" y="-1.5875" size="1.27" layer="27" ratio="10">&gt;Value</text>
-<wire x1="1.5875" y1="1.11125" x2="1.5875" y2="1.42875" width="0.127" layer="21"/>
-<wire x1="-1.64625" y1="1.11125" x2="-1.64625" y2="1.42875" width="0.127" layer="21"/>
-<wire x1="-1.4875" y1="1.27" x2="-1.805" y2="1.27" width="0.127" layer="21"/>
+<wire x1="1.5875" y1="1.11125" x2="1.5875" y2="1.74625" width="0.127" layer="21"/>
+<wire x1="-1.64625" y1="1.11125" x2="-1.64625" y2="1.74625" width="0.127" layer="21"/>
+<wire x1="-1.32875" y1="1.42875" x2="-1.96375" y2="1.42875" width="0.127" layer="21"/>
 <wire x1="-1.5" y1="0.8" x2="1.5" y2="0.8" width="0.1" layer="21" curve="-123.855026"/>
 <wire x1="1.5" y1="-0.8" x2="-1.5" y2="-0.8" width="0.1" layer="21" curve="-123.855026"/>
 <wire x1="-1.5" y1="-0.8" x2="-1.5" y2="0.8" width="0.1" layer="51" curve="-56.144974"/>
