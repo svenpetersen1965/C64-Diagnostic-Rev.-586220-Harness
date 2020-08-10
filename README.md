@@ -38,6 +38,12 @@ Find additional info about the harness on my <a href="http://tech.guitarsite.de/
 
 Jeff Birt provided the information of the cable lengths for C128 diagnostics. This is part of the documentation now. 
 
+# User Port PCB Rev. 2
+The user Port PCB Rev. 2 fits into the User Port Case Rev. 1. It adds an option for the SX-64: Since the SX-64 has no
+Cassette Port, the Feedbacks for the CVontrol Port are not switched automatically by the software. Rev. 2 allows to
+switch on the feedbacks manually. A User Port Case for thei option has been made. It incorporates a cut out for a slide
+switch (standard 19mm hole pitch). This switch can be connected top JP1. For this option the cutpad has to be cut open. 
+
 # Prices
 The prices are calculated in May 2020. The calculation is based on the item prices from reichelt.de. They might differ from distributor to distributor. The edge connector prices are based on ebay shoppings. The calculated prices do not include any shipping fees. 
 
