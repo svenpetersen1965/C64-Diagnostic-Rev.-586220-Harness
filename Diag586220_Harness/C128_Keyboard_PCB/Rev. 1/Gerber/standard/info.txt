@@ -11,6 +11,7 @@
        *.STC        :  -"- top soldermask 
        *.STS        :  -"- bottom soldermask
        *.PLC        :  -"- silk screen top
+       *.PLS        :  -"- silk screen bottom
        *.DK         : Drills plated Through (Excellon)
        *.NDK        : Drills not plated Through (Excellon)
        *.OUT        : Board outline
