@@ -31,7 +31,7 @@ For the case, I have used 2.9mm x 9.5mm (self taping) screws for sheet metal (C 
 # C128 diagnostics
 They keyboard PCB for the C128 is released now and included in this repository. I have noticed, that not all female D-Sub connectors provide a proper contact with the pin header on the C128 mainboard. Please keep this in mind.
 
-You might want to check out the 3D printed dongle case from <a href="https://www.thingiverse.com/thing:4602956>retrorewind.ca</a>.
+You might want to check out the 3D printed dongle case from <a href="https://www.thingiverse.com/thing:4602956">retrorewind.ca</a>.
 
 # Other
 you might want to check Jeff Birt's <a href="https://github.com/Jeff-Birt/COREi64_Dual_Diag_Cart_Case/tree/master">case</a> for the harness, too.
