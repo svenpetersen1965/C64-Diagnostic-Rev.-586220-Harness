@@ -29,11 +29,9 @@ A fix for existing harnesses is the <b>extended</b> Keyboard Dongle. It can be c
 For the case, I have used 2.9mm x 9.5mm (self taping) screws for sheet metal (C 2,9x9,5H, DIN 7981).  
 
 # C128 diagnostics
-They keyboard PCB for the C128 is released now and included in this repository. I have noticed, that not all female D-Sub connectors provide a proper contact with the pin header on the C128 mainboard. Please keep this in mind.
+They keyboard PCB for the C128 is released now and included in this repository. I have noticed, that not all female D-Sub connectors provide a proper contact with the pin header on the C128 mainboard. Please keep this in mind. The recommended type is Amphenol DB25S064TLF (Digikey 609-1519-ND). 
 
 You might want to check out the 3D printed dongle case from <a href="https://www.thingiverse.com/thing:4602956">retrorewind.ca</a>.
-Some female DSUB25do not contact well with the pin header of the C128 motherboard. The recommended type is Amphenol DB25S064TLF (Digikey  
-609-1519-ND). 
 
 # Other
 you might want to check Jeff Birt's <a href="https://github.com/Jeff-Birt/COREi64_Dual_Diag_Cart_Case/tree/master">case</a> for the harness, too.
