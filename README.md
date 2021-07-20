@@ -25,6 +25,7 @@ A fix for existing harnesses is the <b>extended</b> Keyboard Dongle. It can be c
 
 <img src="https://github.com/svenpetersen1965/C64-Diagnostic-Rev.-586220-Harness/blob/master/Diag586220_Harness/Diag586220_Keyboard_ext/Rev.%201/pictures/4034_Ext_KB_Dongle_title.JPG" width="300" alt="Extended keyboard Dongle">
 
+#Keyboard dongle with 90° header
 Some people want to test the C64 mainboard while being mounted. The keyboard cable connector is conflicting here. Some leave out the strain relief. This is not a great solution. A 90° boc pin header can be used insted of the vertical one. This swapps the pins, due to a different orientation. Since the symmetrical pinning of the header and the non-directional properties of the analog switches, this does not matter and is working fine. I only build this kind of KB dongle now.
 
 <img src="https://github.com/svenpetersen1965/C64-Diagnostic-Rev.-586220-Harness/blob/master/Diag586220_Harness/Diag586220_Keyboard/Rev.1/pictures/9053_-_Diag_KB_90deg.JPG" width="300" alt="Keyboard Dongle with 90° pin header">
@@ -35,6 +36,9 @@ This version has no functional updates compared to Rev. 2 of the UP PCB and Rev.
 <img src="https://github.com/svenpetersen1965/C64-Diagnostic-Rev.-586220-Harness/blob/master/Diag586220_Harness/Diag586220_User_Port/SMD_Rev.2/pictures/9049_-_Diag_UP_SMD.JPG" width="300" alt="UP PCB R1v. 2/SMD">
 
 <img src="https://github.com/svenpetersen1965/C64-Diagnostic-Rev.-586220-Harness/blob/master/Diag586220_Harness/Diag586220_Cassette_Port/SMD_Rev.1/pictures/9052_-_Diag_Cass_SMD.JPG" width="300" alt="CP PCB Rev. 1/SMD">
+
+<img src="https://github.com/svenpetersen1965/C64-Diagnostic-Rev.-586220-Harness/blob/master/Diag586220_Harness/Diag586220_User_Port/SMD_Rev.2/pictures/Diagnostic_SMD_Test_20210719.jpg" width="300" alt="Diagnostic test">
+
 
 # Recommended Screws
 For the case, I have used 2.9mm x 9.5mm (self taping) screws for sheet metal (C 2,9x9,5H, DIN 7981).  
