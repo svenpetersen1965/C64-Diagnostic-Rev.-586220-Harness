@@ -34,8 +34,7 @@ Some people want to test the C64 mainboard while being mounted. The keyboard cab
 This version has no functional updates compared to Rev. 2 of the UP PCB and Rev. 1 of the Cassette SMD. Some prefer building SMD assemblies (me included). It is now fully tested.
 
 <img src="https://github.com/svenpetersen1965/C64-Diagnostic-Rev.-586220-Harness/blob/master/Diag586220_Harness/Diag586220_User_Port/SMD_Rev.2/pictures/9049_-_Diag_UP_SMD.JPG" width="300" alt="UP PCB R1v. 2/SMD">
-
-<img src="https://github.com/svenpetersen1965/C64-Diagnostic-Rev.-586220-Harness/blob/master/Diag586220_Harness/Diag586220_Cassette_Port/SMD_Rev.1/pictures/9052_-_Diag_Cass_SMD.JPG" width="300" alt="CP PCB Rev. 1/SMD">
+&nbsp<img src="https://github.com/svenpetersen1965/C64-Diagnostic-Rev.-586220-Harness/blob/master/Diag586220_Harness/Diag586220_Cassette_Port/SMD_Rev.1/pictures/9052_-_Diag_Cass_SMD.JPG" width="300" alt="CP PCB Rev. 1/SMD">
 
 <img src="https://github.com/svenpetersen1965/C64-Diagnostic-Rev.-586220-Harness/blob/master/Diag586220_Harness/Diag586220_User_Port/SMD_Rev.2/pictures/Diagnostic_SMD_Test_20210719.jpg" width="300" alt="Diagnostic test">
 
