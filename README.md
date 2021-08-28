@@ -42,7 +42,11 @@ This version has no functional updates compared to Rev. 2 of the UP PCB and Rev.
 For the case, I have used 2.9mm x 9.5mm (self taping) screws for sheet metal (C 2,9x9,5H, DIN 7981).  
 
 # C128 diagnostics
-They keyboard PCB for the C128 is released now and included in this repository. I have noticed, that not all female D-Sub connectors provide a proper contact with the pin header on the C128 mainboard. Please keep this in mind. The recommended type is Amphenol DB25S064TLF (Digikey 609-1519-ND). 
+They keyboard PCB for the C128 is released now and included in this repository. 
+
+The <b>C128D-CR</b> does not provide +5V at the keyboard D-Sub jack. The keyboard dongle <b>does not work</b> here. A solution needs to be developed.  
+
+I have noticed, that not all female D-Sub connectors provide a proper contact with the pin header on the C128 mainboard. Please keep this in mind. The recommended type is Amphenol DB25S064TLF (Digikey 609-1519-ND). 
 
 You might want to check out the 3D printed dongle case from <a href="https://www.thingiverse.com/thing:4602956">retrorewind.ca</a>.
 
