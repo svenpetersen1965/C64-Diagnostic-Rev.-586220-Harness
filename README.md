@@ -44,6 +44,8 @@ For the case, I have used 2.9mm x 9.5mm (self taping) screws for sheet metal (C 
 # C128 diagnostics
 They keyboard PCB for the C128 is released now and included in this repository. 
 
+The <b>C128D and C128D-CR</b> require a longer cable (1m) between the user port PCB and the Cassette port dongle. Both work with the <b>C128D Diagnostic Rev. 785260</b>.  The keyboard ribbon cable should be 90cm for the C128D.
+
 The <b>C128D-CR</b> does not provide +5V at the keyboard D-Sub jack. The keyboard dongle <b>does not work</b> here. A solution needs to be developed.  
 
 I have noticed, that not all female D-Sub connectors provide a proper contact with the pin header on the C128 mainboard. Please keep this in mind. The recommended type is Amphenol DB25S064TLF (Digikey 609-1519-ND). 
