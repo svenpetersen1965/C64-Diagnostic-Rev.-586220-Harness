@@ -44,6 +44,14 @@ For the case, I have used 2.9mm x 9.5mm (self taping) screws for sheet metal (C 
 # C128 diagnostics
 They keyboard PCB for the C128 is released now and included in this repository. 
 
+<img src="https://github.com/svenpetersen1965/C64-Diagnostic-Rev.-586220-Harness/blob/master/Diag586220_Harness/C128_Keyboard_PCB/Rev.%201/Pictures/4972_Diag128_KB_Dongle_Rev1.JPG" width="300" alt="C128 KB Dongle">
+
+<img src="https://github.com/svenpetersen1965/C64-Diagnostic-Rev.-586220-Harness/blob/master/Diag586220_Harness/C128_Keyboard_PCB/Rev.%201/Pictures/0668_C128_Diag_785260.JPG" width="300" alt="Diagnostic Rev. 785260">
+
+A cartridge with the Diagnostic Rev. 785260 software is required. I recommend using the <a href="https://github.com/bwack/Versa64Cart">Versa64cart</a> for this purpose. Other 8k generic cartridges might also be working. /EXROM and /GAME have to be HIGH/open.
+
+<img src="https://github.com/svenpetersen1965/C64-Diagnostic-Rev.-586220-Harness/blob/master/Diag586220_Harness/C128_Keyboard_PCB/Rev.%201/Pictures/0662_C128_Diag_Harness_test.JPG" width="300" alt="Diagnostic Rev. 785260">
+
 The <b>C128D and C128D-CR</b> require a longer cable (1m) between the user port PCB and the Cassette port dongle. Both work with the <b>C128D Diagnostic Rev. 785260</b>.  The keyboard ribbon cable should be 90cm for the C128D.
 
 The cassette port ribbon cable requires to be 25cm long for the C128 and 70cm long for the C128D/DCR.
@@ -53,6 +61,14 @@ The <b>C128D-CR</b> does not provide +5V at the keyboard D-Sub jack. The keyboar
 I have noticed, that not all female D-Sub connectors provide a proper contact with the pin header on the C128 mainboard. Please keep this in mind. The recommended type is Amphenol/FCI DB25S064TLF (Digikey 609-1519-ND, more sources in the BOM v1.1 or later). 
 
 You might want to check out the 3D printed dongle case from <a href="https://www.thingiverse.com/thing:4602956">retrorewind.ca</a>.
+
+# SX-64 Diagnostics
+Diagnosing an SX/64 requires disconnecting the internal disk drive. A cassette port dongle cannot be used, so the analog switches for testing the control ports need to be switched manually. This is an option with teh User Port PCB Rev. 2.
+
+Also the Keyboard can be tested with the C128 KB dongle and a gender changer.
+<img src="https://github.com/svenpetersen1965/C64-Diagnostic-Rev.-586220-Harness/blob/master/Diag586220_Harness/C128_Keyboard_PCB/Rev.%201/Pictures/SX64_KB_Test.jpg" width="300" alt="SX-64">
+
+The Diagnostic Rev. 586220++ is capable of detecting the SX-64 Kernal and then skip testing the cassette port.
 
 # Other
 you might want to check Jeff Birt's <a href="https://github.com/Jeff-Birt/COREi64_Dual_Diag_Cart_Case/tree/master">case</a> for the harness, too.
@@ -70,7 +86,7 @@ switch (standard 19mm hole pitch). This switch can be connected top JP1. For thi
 <img src="https://github.com/svenpetersen1965/C64-Diagnostic-Rev.-586220-Harness/blob/master/Diag586220_Harness/Case%20(3D%20print)/Rev.%201/User%20Port%20SX64/pictures/5460_-_User_Port_Dongle_SX-64.JPG" width="300" alt="User Port Case SX-64 option">
 
 # Prices
-The prices are calculated in May 2020. The calculation is based on the item prices from reichelt.de. They might differ from distributor to distributor. The edge connector prices are based on ebay shoppings. The calculated prices do not include any shipping fees. 
+The BOM values are calculated in May 2020. The calculation is based on the item prices from reichelt.de. They might differ from distributor to distributor. The edge connector prices are based on ebay shoppings. The calculated prices do not include any shipping fees. 
 
 * User Port PCB plus cables and IEC dongle: 13.38€
 * Cassette Port Dongle: 4.99€
