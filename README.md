@@ -46,9 +46,11 @@ They keyboard PCB for the C128 is released now and included in this repository.
 
 The <b>C128D and C128D-CR</b> require a longer cable (1m) between the user port PCB and the Cassette port dongle. Both work with the <b>C128D Diagnostic Rev. 785260</b>.  The keyboard ribbon cable should be 90cm for the C128D.
 
+The cassette port ribbon cable requires to be 25cm long for the C128 and 70cm long for the C128D/DCR.
+
 The <b>C128D-CR</b> does not provide +5V at the keyboard D-Sub jack. The keyboard dongle <b>does not work</b> here. A solution needs to be developed.  
 
-I have noticed, that not all female D-Sub connectors provide a proper contact with the pin header on the C128 mainboard. Please keep this in mind. The recommended type is Amphenol DB25S064TLF (Digikey 609-1519-ND). 
+I have noticed, that not all female D-Sub connectors provide a proper contact with the pin header on the C128 mainboard. Please keep this in mind. The recommended type is Amphenol/FCI DB25S064TLF (Digikey 609-1519-ND, more sources in the BOM v1.1 or later). 
 
 You might want to check out the 3D printed dongle case from <a href="https://www.thingiverse.com/thing:4602956">retrorewind.ca</a>.
 
