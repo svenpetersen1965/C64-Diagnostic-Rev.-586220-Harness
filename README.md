@@ -66,6 +66,7 @@ You might want to check out the 3D printed dongle case from <a href="https://www
 Diagnosing an SX/64 requires disconnecting the internal disk drive. A cassette port dongle cannot be used, so the analog switches for testing the control ports need to be switched manually. This is an option with teh User Port PCB Rev. 2.
 
 Also the Keyboard can be tested with the C128 KB dongle and a gender changer.
+
 <img src="https://github.com/svenpetersen1965/C64-Diagnostic-Rev.-586220-Harness/blob/master/Diag586220_Harness/C128_Keyboard_PCB/Rev.%201/Pictures/SX64_KB_Test.jpg" width="300" alt="SX-64">
 
 The Diagnostic Rev. 586220++ is capable of detecting the SX-64 Kernal and then skip testing the cassette port.
