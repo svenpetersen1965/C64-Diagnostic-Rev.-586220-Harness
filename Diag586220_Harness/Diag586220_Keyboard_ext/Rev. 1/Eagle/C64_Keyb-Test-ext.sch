@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.5.2">
+<eagle version="9.6.2">
 <drawing>
 <settings>
 <setting alwaysvectorfont="yes"/>
@@ -3965,7 +3965,7 @@ Based on the following sources:
 <part name="IC2" library="40xx" deviceset="4066" device="N"/>
 <part name="R1" library="DISCRETE" deviceset="RES04" device="" value="330R"/>
 <part name="R3" library="DISCRETE" deviceset="RES04" device="" value="n/a"/>
-<part name="R2" library="DISCRETE" deviceset="RES04" device="" value="1k"/>
+<part name="R2" library="DISCRETE" deviceset="RES04" device="" value="3k3"/>
 <part name="U$10" library="!pownet" deviceset="GND" device=""/>
 <part name="U$11" library="!pownet" deviceset="GND" device=""/>
 <part name="U$12" library="!pownet" deviceset="+5V" device=""/>
@@ -3974,7 +3974,7 @@ Based on the following sources:
 <part name="U$15" library="!pownet" deviceset="GND" device=""/>
 <part name="U$16" library="!pownet" deviceset="GND" device=""/>
 <part name="Q1" library="Transistoren" deviceset="BC547*" device="" technology="B"/>
-<part name="R4" library="DISCRETE" deviceset="RES04" device="" value="4k7"/>
+<part name="R4" library="DISCRETE" deviceset="RES04" device="" value="10k"/>
 <part name="C1" library="DISCRETE" deviceset="CAP01" device="" value="100n"/>
 <part name="C2" library="DISCRETE" deviceset="CAP01" device="" value="100n"/>
 <part name="R5" library="DISCRETE" deviceset="RES04" device="" value="10k"/>

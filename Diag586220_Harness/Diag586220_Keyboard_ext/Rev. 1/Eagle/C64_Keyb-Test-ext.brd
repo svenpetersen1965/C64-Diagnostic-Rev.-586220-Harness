@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.5.2">
+<eagle version="9.6.2">
 <drawing>
 <settings>
 <setting alwaysvectorfont="yes"/>
@@ -30,14 +30,14 @@
 <layer number="20" name="Dimension" color="24" fill="1" visible="yes" active="yes"/>
 <layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="22" name="bPlace" color="7" fill="1" visible="no" active="yes"/>
-<layer number="23" name="tOrigins" color="15" fill="1" visible="no" active="yes"/>
+<layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="yes"/>
 <layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="yes"/>
 <layer number="25" name="tNames" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="26" name="bNames" color="7" fill="1" visible="no" active="yes"/>
 <layer number="27" name="tValues" color="7" fill="1" visible="no" active="yes"/>
 <layer number="28" name="bValues" color="7" fill="1" visible="no" active="yes"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="yes"/>
-<layer number="30" name="bStop" color="7" fill="6" visible="no" active="yes"/>
+<layer number="30" name="bStop" color="7" fill="6" visible="yes" active="yes"/>
 <layer number="31" name="tCream" color="7" fill="4" visible="no" active="yes"/>
 <layer number="32" name="bCream" color="7" fill="5" visible="no" active="yes"/>
 <layer number="33" name="tFinish" color="6" fill="3" visible="no" active="yes"/>
@@ -222,8 +222,8 @@ R3 is the right pads.</text>
 <text x="6.50875" y="7.77875" size="1.016" layer="25">100n</text>
 <text x="13.97" y="27.14625" size="1.016" layer="25" rot="R90">100n</text>
 <text x="21.74875" y="2.06375" size="1.016" layer="25" rot="R90">BC547</text>
-<text x="15.24" y="2.69875" size="1.016" layer="25">4k7</text>
-<text x="15.24" y="0.3175" size="1.016" layer="25">1k</text>
+<text x="15.24" y="2.69875" size="1.016" layer="25">10k</text>
+<text x="15.24" y="0.3175" size="1.016" layer="25">3k3</text>
 <text x="2.54" y="39.52875" size="1.016" layer="22" rot="MR270">http://github.com/svenpetersen1965</text>
 </plain>
 <libraries>
@@ -2484,7 +2484,7 @@ design rules under a new name.</description>
 <attribute name="NAME" x="20.16125" y="48.73625" size="1.27" layer="25" rot="R180"/>
 <attribute name="VALUE" x="14.605" y="50.32375" size="1.27" layer="27" rot="R180"/>
 </element>
-<element name="R2" library="DISCRETE" package="R-10" value="1k" x="14.76375" y="0.79375" smashed="yes" rot="R180">
+<element name="R2" library="DISCRETE" package="R-10" value="3k3" x="14.76375" y="0.79375" smashed="yes" rot="R180">
 <attribute name="NAME" x="11.7475" y="0.3175" size="1.27" layer="25"/>
 <attribute name="VALUE" x="17.93875" y="1.42875" size="1.27" layer="27" rot="R180"/>
 </element>
@@ -2493,7 +2493,7 @@ design rules under a new name.</description>
 <attribute name="VALUE" x="21.1625" y="8.62" size="1.27" layer="27" ratio="10" rot="R270"/>
 </element>
 <element name="U$17" library="Logo" package="SVEN_TAG" value="" x="2.06375" y="23.97125" smashed="yes"/>
-<element name="R4" library="DISCRETE" package="R-10" value="4k7" x="14.76375" y="3.33375" smashed="yes">
+<element name="R4" library="DISCRETE" package="R-10" value="10k" x="14.76375" y="3.33375" smashed="yes">
 <attribute name="NAME" x="11.58875" y="2.69875" size="1.27" layer="25"/>
 <attribute name="VALUE" x="11.58875" y="2.69875" size="1.27" layer="27"/>
 </element>
