@@ -1,0 +1,34 @@
+      
+       Board: C64_Userport_Test_SMD
+       Rev.:  3
+  
+       Files:
+       ======
+  
+       All Gerber files are generated in extended gerber format (RS274X)
+       *.TOP        : Film top copper
+       *.BOT        :  -"- bottom copper
+       *.STC        :  -"- top soldermask 
+       *.STS        :  -"- bottom soldermask
+       *.PLC        :  -"- silk screen top
+       *.PLS        :  -"- silk screen bottom
+       *.CRC        :  -"- cream top
+       *.DK         : Drills plated Through (Excellon)
+       *.NDK        : Drills not plated Through (Excellon)
+       *.OUT        : Board outline
+       
+  
+       Board Size:
+       ===========
+       Length     :   55.0 mm
+       Width      :   53.0 mm
+       Thickness  :   1.6 mm
+       Material   :   FR 4
+       Copper     :   35 um
+       Surface    :   HASL
+       
+       Remarks:
+       ========
+       drill >= 0.35mm
+       width >= 8mil
+       distance >= 6mil
