@@ -40,7 +40,9 @@ This version has no functional updates compared to Rev. 2 of the UP PCB and Rev.
 
 
 # Recommended Screws
-For the case, I have used 2.9mm x 9.5mm (self taping) screws for sheet metal (C 2,9x9,5H, DIN 7981).  
+* For the case, I have used 2.9mm x 9.5mm (self taping) screws for sheet metal (C 2,9x9,5H, DIN 7981).  
+* For mounting the optional slide switch: DIN 7985, M2x6
+* For mounting the optional voltmeter: 2.2mm x 4.5mm (self taping) screws for sheet metal (C 2,2x4,5H, DIN 7981). 
 
 # C128 diagnostics
 They keyboard PCB for the C128 is released now and included in this repository. 
