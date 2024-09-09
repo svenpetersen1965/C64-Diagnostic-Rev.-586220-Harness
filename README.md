@@ -94,6 +94,9 @@ switch (standard 19mm hole pitch). This switch can be connected top JP1. For thi
 
 The User Port Rev. 3 Dongle (THT and SMD versions in this repository) is providing two LED for voltage intocations (+5V and 9VAC). Further, there are pin headers for measuring those voltages at the user port. The +5V pin header allows connecting a 4 digit "precision" panel meter. I have some trust issues with those panel meters, but they are a nice light show.  
 
+#Analog Switch IC
+Originally, the analog switches are <b>4066</b>. The 74HC4066 was also tested and works perfectly.
+
 # BOM Value
 The BOM values are calculated in May 2020. The calculation is based on the item prices from reichelt.de. They might differ from distributor to distributor. The edge connector prices are based on ebay shoppings. The calculated prices do not include any shipping fees. 
 
