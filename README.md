@@ -87,7 +87,7 @@ Cassette Port, the Feedbacks for the CVontrol Port are not switched automaticall
 switch on the feedbacks manually. A User Port Case for thei option has been made. It incorporates a cut out for a slide
 switch (standard 19mm hole pitch). This switch can be connected top JP1. For this option the cutpad has to be cut open. 
 
-<img src="https://github.com/svenpetersen1965/C64-Diagnostic-Rev.-586220-Harness/blob/master/Diag586220_Harness/Case%20(3D%20print)/Rev.%201/User%20Port%20SX64/pictures/5460_-_User_Port_Dongle_SX-64.JPG" width="300" alt="User Port Case SX-64 option">
+<img src="https://github.com/svenpetersen1965/C64-Diagnostic-Rev.-586220-Harness/blob/master/Diag586220_Harness/Case_3D_Data/User%20Port/Rev.%202%20(SX-64)/User%20Port%20SX64/pictures/5460_-_User_Port_Dongle_SX-64.JPG" width="300" alt="User Port Case SX-64 option">
 
 # User Port PCB Rev. 3
 <img src="https://github.com/svenpetersen1965/C64-Diagnostic-Rev.-586220-Harness/blob/master/Diag586220_Harness/Diag586220_User_Port/Rev.3/pictures/1743_-_User_Port_Dongle_Rev3_2Versions.JPG" width="300" alt="User Port Rev. 3">
