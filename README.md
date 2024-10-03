@@ -14,7 +14,7 @@ Depending on where the parts and pcbs are purchased, the price for the complete 
 
 Now, a 3D printed case for the user port and the cassette donge is designed and the stl files etc. are available here. 
 
-<img src="https://github.com/svenpetersen1965/C64-Diagnostic-Rev.-586220-Harness/blob/master/Diag586220_Harness/Case%20(3D%20print)/Rev.%200/Picture/2649_Harness_with_case.JPG" width="300" alt="Diagnostic Harness with cases">
+<img src="https://github.com/svenpetersen1965/C64-Diagnostic-Rev.-586220-Harness/blob/master/Diag586220_Harness/Case_3D_Data/Rev.%200/Picture/2649_Harness_with_case.JPG" width="300" alt="Diagnostic Harness with cases">
 
 # Rev. 1
 Revision 1 is released now. It fixes the "False OK" of the Control Port test, while the keyboard dongle is inserted. This is a phenomenon, that applies to all sorts of harnesses for Diagnostic Rev. 586220. Please refer to <a src="http://tech.guitarsite.de/c64_diag_harness.html">my website</a>
