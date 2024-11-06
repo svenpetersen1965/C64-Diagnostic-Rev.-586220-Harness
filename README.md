@@ -96,9 +96,13 @@ The User Port Rev. 3 Dongle (THT and SMD versions in this repository) is providi
 
 Nov. 2024: There is a new version of the case (the STLs are ending on "_noVM_SX.stl"). This version allows to measure the voltages at the pin headers with your multimeter and configure the SX64 or C64 option via jumper. That jumper should be the type with a "handle". 
 
+<img src="https://github.com/svenpetersen1965/C64-Diagnostic-Rev.-586220-Harness/blob/master/Diag586220_Harness/Diag586220_User_Port/Rev.3/pictures/9295_-_case_for_rev3_with_SX64-C64_jumper.JPG" width="300" alt="User Port Rev. 3/sx64-c64">
+
 <b>The solder bridge JP1 near the pin header J6 (which has to be placed) needs to be open!</b>
 
-<img src="https://github.com/svenpetersen1965/C64-Diagnostic-Rev.-586220-Harness/blob/master/Diag586220_Harness/Diag586220_User_Port/Rev.3/pictures/9295_-_case_for_rev3_with_SX64-C64_jumper.JPG" width="300" alt="User Port Rev. 3/sx64-c64">
+<img src="https://github.com/svenpetersen1965/C64-Diagnostic-Rev.-586220-Harness/blob/master/Diag586220_Harness/Diag586220_User_Port/Rev.3/pictures/9298_-_JP1_J6.jpg" width="300" alt="JP1 and J6">
+
+Therefore, it has to be cut along the gap with a scalpel or exacto knife. It is best to check the success with an ohmmeter/multimeter.
 
 The cable for measuring the voltage (+5VDC and 9VAC) at the pin pin headers consists of two AWG24 wires, preferable in different colors, on one end is a two way Dupont connector, on the other end 4mm lab connectors. Holding them together with cable ties is maybe not such a bad idea.
 
