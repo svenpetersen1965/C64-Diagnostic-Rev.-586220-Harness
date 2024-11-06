@@ -94,6 +94,16 @@ switch (standard 19mm hole pitch). This switch can be connected top JP1. For thi
 
 The User Port Rev. 3 Dongle (THT and SMD versions in this repository) is providing two LED for voltage intocations (+5V and 9VAC). Further, there are pin headers for measuring those voltages at the user port. The +5V pin header allows connecting a 4 digit "precision" panel meter. I have some trust issues with those panel meters, but they are a nice light show.  
 
+Nov. 2024: There is a new version of the case (the STLs are ending on "_noVM_SX.stl"). This version allows to measure the voltages at the pin headers with your multimeter and configure the SX64 or C64 option via jumper. That jumper should be the type with a "handle". 
+
+<img src="https://github.com/svenpetersen1965/C64-Diagnostic-Rev.-586220-Harness/blob/master/Diag586220_Harness/Diag586220_User_Port/Rev.3/pictures/9295_-_case_for_rev3_with_SX64-C64_jumper.JPG" width="300" alt="User Port Rev. 3/sx64-c64">
+
+The cable for measuring the voltage (+5VDC and 9VAC) at the pin pin headers consists of two AWG24 wires, preferable in different colors, on one end is a two way Dupont connector, on the other end 4mm lab connectors. Holding them together with cable ties is maybe not such a bad idea.
+
+<img src="https://github.com/svenpetersen1965/C64-Diagnostic-Rev.-586220-Harness/blob/master/Diag586220_Harness/Diag586220_User_Port/Rev.3/pictures/9296_-_cable_for_voltage_measurement.JPG" width="300" alt="cable for multimeter">
+
+To prevent short circuit, you should plug the lab connectors in the multimeter first, there are some security multimeter connectors, too. 
+
 # Analog Switch IC (User Port Dongle)
 Originally, the analog switches are <b>4066</b>. The 74HC4066 was also tested and works perfectly.
 
