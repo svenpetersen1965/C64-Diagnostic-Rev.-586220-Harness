@@ -94,7 +94,9 @@ switch (standard 19mm hole pitch). This switch can be connected top JP1. For thi
 
 The User Port Rev. 3 Dongle (THT and SMD versions in this repository) is providing two LED for voltage intocations (+5V and 9VAC). Further, there are pin headers for measuring those voltages at the user port. The +5V pin header allows connecting a 4 digit "precision" panel meter. I have some trust issues with those panel meters, but they are a nice light show.  
 
-Nov. 2024: There is a new version of the case (the STLs are ending on "_noVM_SX.stl"). This version allows to measure the voltages at the pin headers with your multimeter and configure the SX64 or C64 option via jumper. That jumper should be the type with a "handle". <b>the solder bridge JP1 near the pin header J6 (which has to be placed) needs to be open</b>
+Nov. 2024: There is a new version of the case (the STLs are ending on "_noVM_SX.stl"). This version allows to measure the voltages at the pin headers with your multimeter and configure the SX64 or C64 option via jumper. That jumper should be the type with a "handle". 
+
+<b>The solder bridge JP1 near the pin header J6 (which has to be placed) needs to be open!</b>
 
 <img src="https://github.com/svenpetersen1965/C64-Diagnostic-Rev.-586220-Harness/blob/master/Diag586220_Harness/Diag586220_User_Port/Rev.3/pictures/9295_-_case_for_rev3_with_SX64-C64_jumper.JPG" width="300" alt="User Port Rev. 3/sx64-c64">
 
